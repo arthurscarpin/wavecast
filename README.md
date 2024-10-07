@@ -10,7 +10,7 @@ Esse é um Web Site estático responsivo do Wavecast, um sistema de streaming de
 
 ## 🗣️ Wavecast 
 ![img-wavecast](https://github.com/user-attachments/assets/15483e77-4a5a-4541-a994-1dc9ac58c1b9)
-
+[Deploy Wavecast](https://arthurscarpin.github.io/wavecast/)
 
 ## ⚙️ Técnicas de design
 - HTML semantico;
